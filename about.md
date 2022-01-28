@@ -6,7 +6,6 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### About Jay Li 
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I've been part of Tech@NYU since freshmen year and enjoy fostering community within the club. Outside of school, I'm usually baking, reading or designing things on Figma. :^) 
