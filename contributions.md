@@ -22,9 +22,9 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 4   | (Tayshia Adam's wiki)[https://en.wikipedia.org/wiki/Tayshia_Adams#The_Bachelorette])    | wikipedia page    |   I updated Tayshia Adam's wiki page to reflect she was not a co-host of a podcast anymore    |
-| Feb 12   | (Eva Chen's wiki)[https://en.wikipedia.org/wiki/Eva_Chen_(editor)]    | wikipedia page    |  updated Eva Chen's education history, her latest books she published and formatting of books in chronological order  |
-| Mar 6   | (Bill Gate's wiki)[https://en.wikipedia.org/wiki/Bill_Gates]   | wikipedia page    | made an edit request that he acknowledge he had an affair as a factor of his divorce   |
-| Mar 6  | (Open StreetMap Lady Wong Store)[https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592]| Open Street Map | Added pastry shop name and editted the type of building|
-| Mar 6  | (Open StreetMap Jane NYC store)[https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592]| Open Street Map | Editted vacant building to current store and added opening hours |
+| Feb 4   | [Tayshia Adam's wiki](https://en.wikipedia.org/wiki/Tayshia_Adams#The_Bachelorette])    | wikipedia page    |   I updated Tayshia Adam's wiki page to reflect she was not a co-host of a podcast anymore    |
+| Feb 12   | [Eva Chen's wiki](https://en.wikipedia.org/wiki/Eva_Chen_(editor))    | wikipedia page    |  updated Eva Chen's education history, her latest books she published and formatting of books in chronological order  |
+| Mar 6   | [Bill Gate's wiki](https://en.wikipedia.org/wiki/Bill_Gates)   | wikipedia page    | made an edit request that he acknowledge he had an affair as a factor of his divorce   |
+| Mar 6  | [Open StreetMap Lady Wong Store](https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592)| Open Street Map | Added pastry shop name and editted the type of building|
+| Mar 6  | [Open StreetMap Jane NYC store](https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592)| Open Street Map | Editted vacant building to current store and added opening hours |
 
