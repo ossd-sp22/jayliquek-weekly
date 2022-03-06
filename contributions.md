@@ -27,4 +27,5 @@ Replace the first row with your own contribution.
 | Mar 6   | [Bill Gate's wiki](https://en.wikipedia.org/wiki/Bill_Gates)   | wikipedia page    | made an edit request that he acknowledge he had an affair as a factor of his divorce   |
 | Mar 6  | [Open StreetMap Lady Wong Store](https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592)| Open Street Map | Added pastry shop name and editted the type of building|
 | Mar 6  | [Open StreetMap Jane NYC store](https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592)| Open Street Map | Editted vacant building to current store and added opening hours |
+| Mar 6  | [Open StreetMap Veselka](https://www.openstreetmap.org/edit#map=19/40.72879/-73.98662)| Open Street Map | Editted opening hours of Veselka |
 
