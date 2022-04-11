@@ -28,4 +28,5 @@ Replace the first row with your own contribution.
 | Mar 6  | [Open StreetMap Lady Wong Store](https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592)| Open Street Map | Added pastry shop name and editted the type of building|
 | Mar 6  | [Open StreetMap Jane NYC store](https://www.openstreetmap.org/edit#map=19/40.72873/-73.98592)| Open Street Map | Editted vacant building to current store and added opening hours |
 | Mar 6  | [Open StreetMap Veselka](https://www.openstreetmap.org/edit#map=19/40.72879/-73.98662)| Open Street Map | Editted opening hours of Veselka |
-| Mar 27  | [Open StreetMap Veselka](https://www.openstreetmap.org/edit?editor=id#map=19/40.73038/-73.98089)| Open Street Map | Corrected opening hours of Target |
+| Mar 27  | [Open StreetMap Target](https://www.openstreetmap.org/edit?editor=id#map=19/40.73038/-73.98089)| Open Street Map | Corrected opening hours of Target |
+| Apr 10 | [The Kardashian Wiki](https://en.wikipedia.org/wiki/Kardashian_family) | wikipedia page | Added new upcoming show and Kendall Jenner dating history
