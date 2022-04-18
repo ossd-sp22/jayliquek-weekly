@@ -30,3 +30,5 @@ Replace the first row with your own contribution.
 | Mar 6  | [Open StreetMap Veselka](https://www.openstreetmap.org/edit#map=19/40.72879/-73.98662)| Open Street Map | Editted opening hours of Veselka |
 | Mar 27  | [Open StreetMap Target](https://www.openstreetmap.org/edit?editor=id#map=19/40.73038/-73.98089)| Open Street Map | Corrected opening hours of Target |
 | Apr 10 | [The Kardashian Wiki](https://en.wikipedia.org/wiki/Kardashian_family) | wikipedia page | Added new upcoming show and Kendall Jenner dating history
+| Apr 17 | [Open StreetMap Abraco](https://www.openstreetmap.org/changeset/119834452) | Open Street Map | Editted opening hours of Abraco |
+| Apr 17 | [Open StreetMap Citibike](https://www.openstreetmap.org/changeset/119834537) | Open Street Map | Added Citibike stop on map |
