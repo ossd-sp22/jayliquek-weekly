@@ -33,3 +33,4 @@ Replace the first row with your own contribution.
 | Apr 17 | [Open StreetMap Abraco](https://www.openstreetmap.org/changeset/119834452) | Open Street Map | Editted opening hours of Abraco |
 | Apr 17 | [Open StreetMap Citibike](https://www.openstreetmap.org/changeset/119834537) | Open Street Map | Added Citibike stop on map |
 | Apr 24 | [Open StreetMap Duo](https://www.openstreetmap.org/edit#map=19/40.72860/-73.98563) | Open Street Map | Updated Duo NYC location and Opening Hours |
+| Apr 24 | [Open StreetMap Tokio 7](https://www.openstreetmap.org/edit#map=19/40.72735/-73.98652) | Open Street Map | Editted opening hours of Tokio 7 |
