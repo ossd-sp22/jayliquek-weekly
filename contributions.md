@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 | Apr 10 | [The Kardashian Wiki](https://en.wikipedia.org/wiki/Kardashian_family) | wikipedia page | Added new upcoming show and Kendall Jenner dating history
 | Apr 17 | [Open StreetMap Abraco](https://www.openstreetmap.org/changeset/119834452) | Open Street Map | Editted opening hours of Abraco |
 | Apr 17 | [Open StreetMap Citibike](https://www.openstreetmap.org/changeset/119834537) | Open Street Map | Added Citibike stop on map |
+| Apr 24 | [Open StreetMap Duo](https://www.openstreetmap.org/edit#map=19/40.72860/-73.98563) | Open Street Map | Updated Duo NYC location and Opening Hours |
